@@ -1,0 +1,25 @@
+input {
+    margin-bottom: 10px;
+}
+html {
+    background-color: darkgrey;
+}
+input {
+    background-color: rgb(104, 104, 114);
+    color: white;
+    border: 1px solid red;
+}
+
+label {
+    font-weight: bold;
+}
+
+.btns {
+    height: 30px;
+    width: 100px;
+    border: 1px solid cyan;
+}
+
+.btns:hover {
+    background-color: rgb(223, 131, 241);
+}
